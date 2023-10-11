@@ -224,7 +224,7 @@ h6 {
   height: 100vh;
   background: url("../img/bg-img.jpg") top center;
   background-size: cover;
-  border:5px solid white
+  border:5px solid white;
 }
 
 #hero:before {
@@ -292,7 +292,7 @@ section {
 }
 
 .section-bg {
-  background:url("./assets/img/last-one.jpg");
+  background:url("../img/last-one.jpg");
 }
 
 .section-title {
